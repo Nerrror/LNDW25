@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# PowerPoint
+*.ppt
+*.pptx
+*.pptm
+*.pps
+*.ppsx
+*.ppsm
+
+# Backup files containing tilde
+*~ 
+~*
+# Streamlit
+.streamlit/*.secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+pillow
+numpy
+torch
+torchvision
+matplotlib
+transformers
