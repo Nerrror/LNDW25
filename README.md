@@ -8,8 +8,4 @@ Run by calling
 streamlit run vit_demo.py
 ```
 
-<p align="center">
-    <a href="2025_LNDW_poster.jpg" target="_blank" rel="noopener">
-        <img src="2025_LNDW_poster.jpg" alt="2025 LNDW poster" width="1200">
-    </a>
-</p>
+![LNDW Poster 2025](https://github.com/Nerrror/LNDW25/blob/main/2025_LNDW_Poster.jpg?raw=true)
